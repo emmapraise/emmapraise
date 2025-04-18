@@ -26,7 +26,7 @@ I'm a passionate Software Engineer with a strong focus on **Back-End Development
 
 ## 🌐 Connect With Me
 
-- 🧑‍💻 [My Blog]((https://medium.com/@emmapraise))
+- 🧑‍💻 [My Blog](https://emmapraise.medium.com/)
 - 📫 Email: `emmapraise@gmail.com`
 - 🔗 [LinkedIn](https://linkedin.com/in/emmapraise)
 - 🐦 [Twitter](https://twitter.com/emmapraise)
